@@ -1,0 +1,28 @@
+{
+  "name": "iwexcel",
+  "version": "1.0.0",
+  "description": "一个简单的React实现的Excel组件，动态增删与全局提示。UI使用bootStrap3.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  },
+  "author": "iwh",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "watch": "^1.0.2"
+  },
+  "dependencies": {
+    "prop-types": "latest"
+  }
+}
