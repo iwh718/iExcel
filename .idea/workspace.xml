@@ -15,7 +15,7 @@
     <session id="308747727">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.25" value="1" />
@@ -46,7 +46,7 @@
         <counts>
           <entry key="dummy" value="2" />
           <entry key="html" value="105" />
-          <entry key="js" value="6724" />
+          <entry key="js" value="6761" />
           <entry key="json" value="64" />
         </counts>
       </usages-collector>
@@ -54,7 +54,7 @@
         <counts>
           <entry key="HTML" value="105" />
           <entry key="JSON" value="64" />
-          <entry key="JavaScript" value="6724" />
+          <entry key="JavaScript" value="6761" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -68,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/es6/components/Excel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="-2664">
+              <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
                 <element signature="n#!!block;n#_showEditor#0;n#Excel#0" />
@@ -88,7 +88,6 @@
                 <element signature="n#!!block;n#_renderSearch#0;n#Excel#0" />
                 <element signature="n#!!block;n#_renderTips#0;n#Excel#0" />
                 <element signature="n#!!block;n#_renderAdd#0;n#Excel#0" />
-                <element signature="n#!!block;n#_renderTool#0;n#Excel#0" />
                 <element signature="n#!!block;n#_renderAlert#0;n#Excel#0" />
                 <element signature="n#!!block;n#_renderTable#0;n#Excel#0" />
               </folding>
@@ -170,12 +169,13 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="125" />
     <option name="width" value="1440" />
     <option name="height" value="775" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -286,12 +286,12 @@
       <workItem from="1544438293780" duration="3313000" />
       <workItem from="1544443314429" duration="8025000" />
       <workItem from="1544512973696" duration="15207000" />
-      <workItem from="1544594788288" duration="13265000" />
+      <workItem from="1544594788288" duration="14040000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43274000" />
+    <option name="totallyTimeSpent" value="44049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
@@ -350,7 +350,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/bundle.js</url>
-          <line>562</line>
+          <line>554</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -470,8 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/es6/components/Excel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="-2664">
+          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
             <element signature="n#!!block;n#_showEditor#0;n#Excel#0" />
@@ -490,7 +490,6 @@
             <element signature="n#!!block;n#_renderSearch#0;n#Excel#0" />
             <element signature="n#!!block;n#_renderTips#0;n#Excel#0" />
             <element signature="n#!!block;n#_renderAdd#0;n#Excel#0" />
-            <element signature="n#!!block;n#_renderTool#0;n#Excel#0" />
             <element signature="n#!!block;n#_renderAlert#0;n#Excel#0" />
             <element signature="n#!!block;n#_renderTable#0;n#Excel#0" />
           </folding>
